@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <br/>
-I'm Angel Sepulveda, a IT Engineer at Universidad Politecnica de Victoria, Ciudad Victoria Tamaulipas, Mexico. I am code enthusiast.
+I'm Angel Sepulveda, IT Engineer at Universidad Politecnica de Victoria, Ciudad Victoria Tamaulipas, Mexico. I am code enthusiast.
 <br/>
 <br/>
 Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mining, Computer Vision, Neural Networks. 
