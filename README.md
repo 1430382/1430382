@@ -47,6 +47,9 @@ Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mini
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Handsometable-DB7093?style=for-the-badge&logo=handsometable&logoColor=white">
+  <img src="https://img.shields.io/badge/Highcharts-0081CB?style=for-the-badge&logo=highcharts&logoColor=white">
+  <img src="https://img.shields.io/badge/Datatable-6264A7?style=for-the-badge&logo=datatable&logoColor=white">
 </p>
 <h4>Backend Development</h4>
 <p>
