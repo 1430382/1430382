@@ -25,23 +25,29 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <br/>
-I'm Angel Sepulveda, IT Engineer From Universidad Politecnica de Victoria, Ciudad Victoria Tamaulipas, Mexico. I am code enthusiast.
+I'm Angel Sepulveda, IT Engineer graduated From Universidad Politecnica de Victoria, Ciudad Victoria Tamaulipas, Mexico. I am code enthusiast.
 <br/>
 <br/>
 Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mining, Computer Vision, Neural Networks. 
 <h3>
   Skills
 </h3>
-<h4>Programming Languages</h4>
+<h4>Programming Languages(Professional experience)</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
-<h4>Frontend Development</h4>
+<h4>Programming Languages(Familiar With)</h4>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  
+</p>
+<h4>Frontend Development(Professional experience)</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -51,11 +57,20 @@ Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mini
   <img src="https://img.shields.io/badge/Highcharts-0081CB?style=for-the-badge&logo=highcharts&logoColor=white">
   <img src="https://img.shields.io/badge/Datatable-6264A7?style=for-the-badge&logo=datatable&logoColor=white">
 </p>
-<h4>Backend Development</h4>
+<h4>Backend Development(Professional experience)</h4>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+<h4>Other Technology</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenGL%3C4-F24E1E?style=for-the-badge&logo=opengl&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-003791?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-0FAAFF?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-CC2927?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-217346?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
 <h3>
   GitHub Stats
