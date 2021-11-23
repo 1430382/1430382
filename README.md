@@ -71,6 +71,7 @@ Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mini
   <img src="https://img.shields.io/badge/Streamlit-0FAAFF?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-CC2927?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-217346?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 <h3>
   GitHub Stats
