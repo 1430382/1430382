@@ -77,10 +77,10 @@ Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mini
   GitHub Stats
 </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1430382&show_icons=true&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelfsepulveda&show_icons=true&theme=vision-friendly-dark">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1430382&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelfsepulveda&theme=vision-friendly-dark">
 </p>
 <h3>
   Workspace
