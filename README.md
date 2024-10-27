@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 I'm Angel Sepulveda, IT Engineer.
 <br/>
 <br/>
-Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mining, Computer Vision, Neural Networks. 
+Areas of interest: Software Engineering, Data Structures & Algorithms, Data Mining, Computer Vision, Neural Networks, Generative AI. 
 <h3>
   Skills
 </h3>
